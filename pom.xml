@@ -43,6 +43,7 @@
     <dependency>
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-starter-hystrix</artifactId>
+      <version>1.4.4</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
@@ -57,10 +58,12 @@
     <dependency>
       <groupId>org.webjars</groupId>
       <artifactId>jquery</artifactId>
+      <version>3.3.1</version>
     </dependency>
     <dependency>
       <groupId>org.webjars</groupId>
       <artifactId>bootstrap</artifactId>
+      <version>4.1.0</version>
     </dependency>
     <dependency>
       <groupId>org.webjars</groupId>
@@ -94,6 +97,7 @@
     <dependency>
       <groupId>org.spockframework</groupId>
       <artifactId>spock-spring</artifactId>
+      <version>1.1-groovy-2.4</version>
       <scope>test</scope>
     </dependency>
     <dependency>
