@@ -6,7 +6,7 @@
   <groupId>io.pivotal.education</groupId>
   <artifactId>articulate</artifactId>
   <version>1.0</version>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
 
   <name>articulate</name>
   <description>Articulate the value of Cloud Foundry</description>
